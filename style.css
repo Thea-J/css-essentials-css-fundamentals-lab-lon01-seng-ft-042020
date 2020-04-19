@@ -7,13 +7,13 @@ body {
 header{text-align: center;} 
 figcaption{ text-align: center;}
 a{ padding: 10px;}
-
+/*center the image*/
 img{
     display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
+/*Make the div a horizontal footer*/
 div{
     display: block;
   background-color: red;
