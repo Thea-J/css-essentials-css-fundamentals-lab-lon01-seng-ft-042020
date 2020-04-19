@@ -10,3 +10,8 @@ header, p {
   padding: 30px;
 }
 
+figure{
+   width: 500px;
+  margin: auto;
+}
+
