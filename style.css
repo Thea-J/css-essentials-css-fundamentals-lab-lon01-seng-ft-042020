@@ -4,10 +4,7 @@ body {
   margin: 0;
 }
 
-header{
-text-align: center;
-} 
-
+header{text-align: center;} 
 
 img{
     display: block;
@@ -15,17 +12,10 @@ img{
   margin-right: auto;
 }
 
-figcaption{
-    text-align: center;
-}
+figcaption{ text-align: center;}
 
 a{ padding: 10px;}
 
-#details{
-  display: block;
-  
-
-}
 
 div{
     display: block;
