@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header, #featured-property {
+header, p {
   width: 700px;
   margin: auto;
   padding: 30px;
