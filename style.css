@@ -4,16 +4,10 @@ body {
   margin: 0;
 }
 
-header,  {
-   width: 350px;
-   margin: auto;
-  padding: 50px;
+header, p {
+text-align: center;
 } 
-p {
-  width: 700px;
-  margin: auto;
-  padding: 30px;
-}
+
 
 img{
    width: 350;
