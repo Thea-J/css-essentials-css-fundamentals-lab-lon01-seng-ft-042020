@@ -16,7 +16,7 @@ p {
 }
 
 figure+img{
- 
+   width: 1000px;
   margin: auto;
 }
 
