@@ -19,6 +19,7 @@ img{
 
 #featured-property{
   width = 800px;
+   text-align: center;
 }
 
 
@@ -34,5 +35,8 @@ a{
 }
 
 
-
+#featured-property{
+ text-align: center;
+ padding: 30px;
+}
 
