@@ -24,7 +24,9 @@ img{
 
 a{ padding: 10px;}
 
-#details
+#details{
+   float: right;
+}
 
 
 
