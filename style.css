@@ -13,7 +13,7 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-/*Make the div a horizontal footer*/
+/*Make the div a red horizontal footer*/
 div{
     display: block;
   background-color: red;
